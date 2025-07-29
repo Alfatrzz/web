@@ -8,10 +8,5 @@
     "username": "tes",
     "password": "123",
     "active": false
-  },
-  {
-    "username": "tirzz",
-    "password": "tirzz123",
-    "expire": "2025-7-29"
   }
 ]
