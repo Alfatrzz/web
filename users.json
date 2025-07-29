@@ -3,10 +3,5 @@
     "username": "admin",
     "password": "5115",
     "active": false
-  },
-  {
-    "username": "tes",
-    "password": "123",
-    "active": false
   }
 ]
