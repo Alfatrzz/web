@@ -3,10 +3,5 @@
     "username": "admin",
     "password": "5115",
     "active": false
-  },
-  {
-    "username": "asep",
-    "password": "asep123",
-    "active": false
   }
 ]
