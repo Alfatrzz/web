@@ -3,5 +3,10 @@
     "username": "admin",
     "password": "5115",
     "active": false
+  },
+  {
+    "username": "tirzz",
+    "password": "5115",
+    "expiryDate": "2025-08-29"
   }
 ]
