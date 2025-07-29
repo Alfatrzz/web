@@ -1,10 +1,6 @@
 [
     {
-        "username": "admin1",
+        "username": "tirzz",
         "password": "5115"
-    },
-    {
-        "username": "admin2",
-        "password": "securepassword"
     }
 ]
