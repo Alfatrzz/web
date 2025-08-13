@@ -1,1 +1,17 @@
-
+[
+  {
+    "username": "admin",
+    "password": "123",
+    "expire": "2025-08-20"
+  },
+  {
+    "username": "user1",
+    "password": "pass1",
+    "expire": "2025-09-01"
+  },
+  {
+    "username": "user2",
+    "password": "pass2"
+    // bisa tanpa expire, artinya tidak pernah kadaluarsa
+  }
+]
