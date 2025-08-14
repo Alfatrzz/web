@@ -3,10 +3,5 @@
     "username": "admin",
     "password": "123",
     "expire": "2025-08-20"
-  },
-  {
-    "username": "user1",
-    "password": "pass1",
-    "expire": "2025-09-01"
   }
 ]
