@@ -12,6 +12,5 @@
   {
     "username": "user2",
     "password": "pass2"
-    // bisa tanpa expire, artinya tidak pernah kadaluarsa
   }
 ]
