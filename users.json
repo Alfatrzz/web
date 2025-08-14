@@ -8,9 +8,5 @@
     "username": "user1",
     "password": "pass1",
     "expire": "2025-09-01"
-  },
-  {
-    "username": "user2",
-    "password": "pass2"
   }
 ]
