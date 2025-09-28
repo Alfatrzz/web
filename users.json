@@ -2,7 +2,8 @@
   {
     "username": "tirzz",
     "password": "5115",
-    "expire": "2025-12-13"
+    "expire": "2025-12-13",
+    "role": "developer"
   },
   {
     "username": "free",
