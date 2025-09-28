@@ -1,13 +1,58 @@
 [
   {
-    "username": "tirzz",
-    "password": "5115",
-    "expire": "2025-12-13",
-    "role": "developer"
+    "username": "user_basic",
+    "password": "UserB@sic2025",
+    "role": "user",
+    "expired": "2026-09-28",
+    "active": false
   },
   {
-    "username": "free",
-    "password": "free123",
-    "expire": "2025-08-16"
+    "username": "user_premium",
+    "password": "Prem!um2025",
+    "role": "premium",
+    "expired": "2026-09-28",
+    "active": false
+  },
+  {
+    "username": "user_vip",
+    "password": "V1P_Access2025",
+    "role": "vip",
+    "expired": "2026-09-28",
+    "active": false
+  },
+  {
+    "username": "user_reseller",
+    "password": "Resell3r2025",
+    "role": "reseller",
+    "expired": "2026-09-28",
+    "active": false
+  },
+  {
+    "username": "user_moderator",
+    "password": "ModRole2025!",
+    "role": "moderator",
+    "expired": "2026-09-28",
+    "active": false
+  },
+  {
+    "username": "user_admin",
+    "password": "Adm1nP@ss2025",
+    "role": "admin",
+    "expired": "2026-09-28",
+    "active": false
+  },
+  {
+    "username": "user_owner",
+    "password": "0wnerStrong2027",
+    "role": "owner",
+    "expired": "2027-09-28",
+    "active": false
+  },
+  {
+    "username": "tirzz",
+    "password": "5115",
+    "role": "developer",
+    "expired": "2026-12-31",
+    "active": false
   }
 ]
