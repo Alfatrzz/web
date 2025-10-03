@@ -14,5 +14,10 @@
     "username": "samsulek",
     "password": "samsul3k",
     "expire": "2025-11-02"
+  },
+  {
+    "username": "admin",
+    "password": "admin",
+    "expire": "2025-11-02"
   }
 ]
