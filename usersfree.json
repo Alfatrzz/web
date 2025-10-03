@@ -6,12 +6,6 @@
     "active": false
   },
   {
-    "username": "user_moderator",
-    "password": "ModRole2025!",
-    "expired": "2026-09-28",
-    "active": false
-  },
-  {
     "username": "user_admin",
     "password": "Adm1nP@ss2025",
     "expired": "2026-09-28",
