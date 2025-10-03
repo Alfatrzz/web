@@ -16,11 +16,5 @@
     "password": "V1P_Access2025",
     "expired": "2026-09-28",
     "active": false
-  },
-  {
-    "username": "user_reseller",
-    "password": "Resell3r2025",
-    "expired": "2026-09-28",
-    "active": false
   }
 ]
